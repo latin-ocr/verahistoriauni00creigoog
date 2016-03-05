@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./verahistoriauni00creigoog_0439.png"; bbox 0 0 4059 6800; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 314 2228 1892 2865">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 314 2228 1892 2865">
+     <span class='ocr_line' id='line_1_1' title="bbox 314 2228 1892 2865; baseline 0.005 -20.23"><span class='ocrx_word' id='word_1_1' title='bbox 314 2228 1892 2865; x_wconf 84' lang='lat' dir='ltr'><strong>NOTAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 135 3068 1920 3424">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 135 3034 1920 3424">
+     <span class='ocr_line' id='line_1_2' title="bbox 135 3068 1920 3424; baseline -0.004 0"><span class='ocrx_word' id='word_1_2' title='bbox 135 3068 139 3078; x_wconf 53' lang='grc'>’</span> <span class='ocrx_word' id='word_1_3' title='bbox 410 3180 1920 3424; x_wconf 75' lang='lat' dir='ltr'>HISTORIAM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 321 3507 1793 3672">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 321 3507 1793 3672">
+     <span class='ocr_line' id='line_1_3' title="bbox 321 3507 1793 3672; baseline 0 -10"><span class='ocrx_word' id='word_1_4' title='bbox 321 3507 341 3544; x_wconf 86' lang='grc'>·’</span> <span class='ocrx_word' id='word_1_5' title='bbox 560 3529 1031 3672; x_wconf 77' lang='lat' dir='ltr'>coHcHH</span> <span class='ocrx_word' id='word_1_6' title='bbox 1125 3535 1793 3672; x_wconf 67' lang='lat' dir='ltr'>HLORHNHM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2034 6800">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2034 6800">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2034 6800; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 2034 6800; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
